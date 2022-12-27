@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5BeccEDd18255621243A37ad157953056A35898d",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x5BeccEDd18255621243A37ad157953056A35898d",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "GoerliETH",
+    "ID": 5
+  },
+  "NFT_NAME": "CyberAnimePortrait",
+  "SYMBOL": "CAP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cyberanimeportrait",
+  "SHOW_BACKGROUND": true
+}
